@@ -1,6 +1,10 @@
 # Dotfiles
 list of every Dotfile i used will be here
 
+## Arcana
+
+![Screenshot](https://raw.githubusercontent.com/roobini-gamer/Dotfiles/main/Arcana/Screenshots/1.png)
+
 ## Minato Aqua
 
 ![Screenshot](https://raw.githubusercontent.com/roobini-gamer/Dotfiles/main/Minato%20Aqua/Screenshots/1.png)
